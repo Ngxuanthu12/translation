@@ -2,6 +2,7 @@
   "COMMON": {
     "ACTIONS": {
       "APPLY": "Áp dụng",
+      "COPY": "sao chép",
       "CREATE": "Tạo",
       "DELETE": "Xóa",
       "DUPLICATE": "Nhân bản",
