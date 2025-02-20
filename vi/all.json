@@ -11,6 +11,28 @@
       "REMOVE": "Loại bỏ",
       "UPDATE": "Cập nhật",
       "VIEW": "Xem"
+    },
+    "NEW": "mới"
+  },
+  "COMMUNITY": {
+    "ARTICLES": {
+      "ERRORS": {
+        "SHARING": {
+          "NO_CONTENT": {
+            "SRC": "Các tài liệu bạn đang cố gắng chia sẻ có vẻ hơi trống rỗng. Vui lòng thêm ít nhất Rems tối thiểu, sau đó thử lại.",
+            "SUBDOCUMENT": "Một trong những Subdocument của bạn trông hơi trống rỗng. Nó sẽ không được công bố cho đến khi nó có REMS tối thiểu."
+          },
+          "NO_TITLE": {
+            "SRC": "Tài liệu bạn đang cố gắng chia sẻ không có tiêu đề. Bạn cần thêm một trước khi xuất bản nó.",
+            "SUBDOCUMENT": "Một trong những subdocument của bạn không có tiêu đề. Nó sẽ không được công bố cho đến khi nó có."
+          }
+        }
+      }
+    }
+  },
+  "DOCUMENT": {
+    "DIALOGS": {
+      "DELETE_ALSO_UNSHARE": "Bạn có muốn bỏ qua tài liệu không?"
     }
   },
   "LANGUAGE": {
